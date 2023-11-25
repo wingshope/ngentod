@@ -60,4 +60,4 @@ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && ge
 ### TELEGRAM
 <a href="https://t.me/wingsofhope" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 
-![IMG_20231125_152113](https://github.com/wingshope/ngentod/assets/138878860/d84a3016-18ba-48fd-9eee-d0e522336384)
+![IMG_20231125_153610](https://github.com/wingshope/ngentod/assets/138878860/875c5128-09eb-4b6f-9ae2-b64dd9fc2c44)
