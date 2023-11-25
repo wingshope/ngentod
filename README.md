@@ -1,4 +1,12 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=WINGS+MULTIPORT+ONLY" />
+</p>
 
+# UPDATE UNTUK DEBIAN
+apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
+
+# UPDATE UNTUK UBUNTU
+apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 
 ### INSTALL SCRIPT 
 ```
@@ -6,12 +14,10 @@ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && ge
 
 ```
 
-### PERINTAH UPDATE
-```
+## WAJIB IZIN IP
 
-wget https://raw.githubusercontent.com/wingshope/ngentod/main/update.sh && chmod +x update.sh && ./update.sh
-
-```
+## Silahkan Hubungi
+### https://wa.me/6282261333421
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
