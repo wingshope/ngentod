@@ -1,1 +1,0 @@
-# NYARI APA
