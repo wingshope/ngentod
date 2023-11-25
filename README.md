@@ -13,7 +13,6 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/wingshope/ngentod/main/agoez.sh && chmod +x agoez.sh && ./agoez.sh
 
 ```
-
 ## WAJIB IZIN IP
 
 ## Silahkan Hubungi
@@ -22,7 +21,6 @@ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && ge
 ### TESTED ON OS 
 - UBUNTU 20.04.05
 - DEBIAN 10
-
 ### FITUR TAMBAHAN
 - Tambah Swap 1GiB
 - Pemasangan yang dinamis
@@ -33,7 +31,6 @@ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && ge
 - Auto clear log per 3 menit
 - Auto deler expired
 - User Details Akun
-
 ### PORT INFO
 ```
 - TROJAN WS 443
@@ -51,7 +48,6 @@ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && ge
 - OVPN SSL/TCP 1194
 - SLOWDNS 5300
 ```
-
 ### SETTING CLOUDFLARE
 ```
 - SSL/TLS : FULL
