@@ -15,7 +15,7 @@ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && ge
 ```
 ## WAJIB IZIN IP
 
-## Silahkan Hubungi
+## Silahkan Hubungi/Donasi
 ### https://wa.me/6282261333421
 
 ### TESTED ON OS 
