@@ -16,7 +16,7 @@ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && ge
 ## WAJIB IZIN IP
 
 ## Silahkan Hubungi/Donasi
-### https://wa.me/6282261333421
+### https://wa.me/6282227299421
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
