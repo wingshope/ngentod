@@ -58,6 +58,6 @@ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && ge
 - UNDER ATTACK MODE : OFF
 ```
 ### TELEGRAM
-<a href="https://t.me/wingsofhope" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+<a href="https://t.me/wingshope49" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 
 ![IMG_20231125_153610](https://github.com/wingshope/ngentod/assets/138878860/875c5128-09eb-4b6f-9ae2-b64dd9fc2c44)
